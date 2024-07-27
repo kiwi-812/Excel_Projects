@@ -1,6 +1,6 @@
 
 # Excel-Projects
-Every project has a unique style to analyze depending on data.
+Each project has a unique style to analyze depending on data.
 <h1>There are some steps I use it in General: </h1> 
 <ul>
  <li> First, I like to take a copy of the raw data as a backup.
