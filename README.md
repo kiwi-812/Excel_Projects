@@ -13,5 +13,4 @@ Each project has a unique style to analyze depending on data.
  <br>
 <h5>
 I will be glad if you give me your opinion and I am open to hearing criticism.
-<br>There are two folders here: one for tutorial projects and the other for my own projects.
-</h5>
+
