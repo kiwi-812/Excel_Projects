@@ -1,5 +1,5 @@
 
-# Excel-Projects
+# 📊Excel-Projects
 Each project has a unique style to analyze depending on data.
 <h1>There are some steps I use it in General: </h1> 
 <ul>
