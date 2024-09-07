@@ -3,6 +3,6 @@ In this folder, you will find all excel projects that I did throughout my journe
 
 
 ### Contact me
-If you have any questions, feedback, or suggestions, feel free to reach out to [me](https://www.linkedin.com/in/kareem-shaaban-)
+If you have any questions, feedback, or suggestions, feel free to reach out to [me](https://linktr.ee/kareem.shaaban)
 
 
